@@ -1,6 +1,6 @@
 # Medical Appointment No-Show Analysis
 
-An exploratory data analysis of ~110,000 medical appointments in Brazil, investigating what factors predict whether a patient will miss their scheduled appointment.
+An exploratory data analysis of ~110,000 medical appointments in Brazil, investigating what factors predict whether a patient will miss their scheduled appointment. The Analysis focuses on two questions primarily, but could be extended to examine other factors and explore the relationship between variables.
 
 ## Questions Explored
 
@@ -88,7 +88,7 @@ Both male and female patients had no-show rates close to 20%, suggesting gender 
 ## Running the Notebook
 
 ```bash
-git clone https://github.com/<your-username>/no-show-appointments.git
+git clone https://github.com/Westcornbread/no-show-appointments.git
 cd no-show-appointments
 pip install pandas numpy matplotlib jupyter
 jupyter notebook Investigate_a_Dataset.ipynb
